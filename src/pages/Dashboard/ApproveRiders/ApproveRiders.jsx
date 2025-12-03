@@ -72,7 +72,7 @@ const ApproveRiders = () => {
                   </p>
                 </td>
                 <td>{rider.workStatus}</td>
-                <td>{rider.District}</td>
+                <td>{rider.district}</td>
                 <td>
                   <button className="btn btn-sm ">
                     <FaEye></FaEye>
